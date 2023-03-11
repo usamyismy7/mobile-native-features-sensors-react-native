@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "ios": {
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      }
+    }
+  },
+  "expo-image-picker":
+        {
+		"photosPermission": "The app accesses your photos. ",
+		"cameraPermission": "The app accesses your photos. ",
+		"microphonePermission": "The app accesses your photos. "
+        }
+}
